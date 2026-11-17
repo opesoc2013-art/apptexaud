@@ -1,0 +1,17 @@
+{
+  "name": "Voz a Texto",
+  "short_name": "VozTexto",
+  "description": "App de práctica de texto a voz.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#349e53",
+  "theme_color": "#349e53",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
